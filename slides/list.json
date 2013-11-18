@@ -5,6 +5,7 @@
         "asset-organization.md",
         "managing-assets-with-sprockets.md",
         "manifest.md",
+        "directives.md",
         "gemfile.md"
     ],
     "dev-vs-prod.md"
