@@ -1,0 +1,11 @@
+[
+    "index.md",
+    [
+        "asset-pipeline.md",
+        "asset-organization.md",
+        "managing-assets-with-sprockets.md",
+        "manifest.md",
+        "gemfile.md"
+    ],
+    "dev-vs-prod.md"
+]
