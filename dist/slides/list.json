@@ -1,0 +1,17 @@
+[
+    "index.md",
+    [
+        "asset-pipeline.md",
+        "asset-organization.md",
+        "managing-assets-with-sprockets.md",
+        "manifest.md",
+        "directives.md",
+        "gemfile.md",
+        "productionrb.md",
+        "dev-vs-prod.md"
+    ],
+    [
+        "rails-in-deployment.md",
+        "web-and-app-server.md"
+    ]
+]
