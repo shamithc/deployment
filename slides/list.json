@@ -6,7 +6,12 @@
         "managing-assets-with-sprockets.md",
         "manifest.md",
         "directives.md",
-        "gemfile.md"
+        "gemfile.md",
+        "productionrb.md",
+        "dev-vs-prod.md"
     ],
-    "dev-vs-prod.md"
+    [
+        "rails-in-deployment.md",
+        "web-and-app-server.md"
+    ]
 ]
