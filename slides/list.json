@@ -12,6 +12,11 @@
     ],
     [
         "rails-in-deployment.md",
-        "web-and-app-server.md"
-    ]
+        "web-and-app-server.md",
+        "phusion-passenger.md",
+        "deploying.md",
+        "sample-config.md",
+        "capistrano.md"
+    ],
+    "thanks.md"
 ]
